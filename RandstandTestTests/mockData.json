@@ -1,0 +1,15 @@
+{
+  "results": [
+    {
+      "title": "One Piece",
+      "type": "Action",
+      "episodes": 100,
+    },
+    {
+      "title": "King of the Ring",
+      "score": 5,
+      "synopsis": "Western"
+    }
+  ]
+}
+
